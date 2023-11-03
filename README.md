@@ -20,11 +20,13 @@ A collection of ctf(*Capture the Flag*) challenges and solvs, across the various
 ### Categories 
 #### Crypto
 - [Cyber_Crawler_2023_Decode_me](/CTFs/CyberCrawler_2023/Crypto/Decode%20me/README.md)
-- [Cyber_Crawler_2023_Decode_me2]
+- [Cyber_Crawler_2023_Decode_me2](/CTFs/CyberCrawler_2023/Crypto/Decode%20me2/README.md)
 #### Misc
+- [Cyber_Crawler_2023_Unzip_me](/CTFs/CyberCrawler_2023/Misc/Unzip%20me/README.md)
 #### OSINT
 #### Network
 #### Forensics
+- [Cyber_Crawler_2023_release_me](/CTFs/CyberCrawler_2023/Forensics/release%20me/README.md)
 
 
 
