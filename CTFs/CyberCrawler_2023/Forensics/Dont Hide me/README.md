@@ -8,14 +8,14 @@ Note:I use numbers such as 1, 2, 3, etc., to facilitate understanding which imag
 Attachments:
 [Link 1](https://drive.google.com/drive/folders/104C8Fx7W9HWxiuK0vDMCwYWrRhsnGGp0?usp=sharing)
 
-The __folder__ 7 images followed by a final `HereIam`.
+The __folder__ contains 7 images followed by a final `HereIam`.
 ![img](/CTFs/CyberCrawler_2023/Forensics/Dont%20Hide%20me/hideMe.png)
 
 From the note, I noticed an order among the first 7 images.Taking the letters which followed the numbering of the images , I got `DREAMDU`.
 
 I thought this is the password.
 
-I went to this [website](https://futureboy.us/stegano/decinput.html), pasted the image and gave the pwd and got the flag.
+I went to this website [futureboy](https://futureboy.us/stegano/decinput.html), pasted the image and gave the pwd and got the flag.
 
 Flag:
 ```
