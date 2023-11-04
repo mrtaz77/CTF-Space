@@ -27,6 +27,7 @@ A collection of ctf(*Capture the Flag*) challenges and solvs, across the various
 #### Network
 #### Forensics
 - [Cyber_Crawler_2023_release_me](/CTFs/CyberCrawler_2023/Forensics/release%20me/README.md)
+- [Cyber_Crawler_2023_dont_hide_me](/CTFs/CyberCrawler_2023/Forensics/Dont%20Hide%20me/README.md)
 
 
 
