@@ -48,7 +48,7 @@ def undoingMagic(magic_spell, monkey):
     return original_text
 ```
 
-which saddly did not work. But then I checked the output of magic function for `hello world` and got :
+which sadly did not work. But then I checked the output of magic function for `hello world` and got :
 ```cmd
 Original Text: hello world
 Magic Spell: hreollwdlo
