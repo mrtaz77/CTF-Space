@@ -1,4 +1,4 @@
-# CTF_Space
+# CTF Space
 A collection of ctf(*Capture the Flag*) challenges and solvs, across the various ctfs I attended ,home and abroad.
 
 ## Navigation
