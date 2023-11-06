@@ -69,7 +69,7 @@ if __name__ == "__main__":
 ```
 Here `monkey` = 5 is passed as a paramter to `magic_spell`
 
-So I went to decode:
+So I went to [dcode](https://www.dcode.fr/rail-fence-cipher):
 ![img](/CTFs/CyberCrawler_2023/Crypto/Decode%20me2/ssOfSolv.png)
 
 Flag : 
