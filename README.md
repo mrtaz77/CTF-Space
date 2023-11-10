@@ -10,6 +10,7 @@ A collection of ctf(*Capture the Flag*) challenges and solvs, across the various
     4. [Network](#network)
     5. [Forensics](#forensics) 
     6. [Reverse](#reverse)
+    7. [Administration](#administration)
 
 ### CTFs
 | # |     CTF   | Year |   Team   |  Rank |
@@ -33,6 +34,8 @@ A collection of ctf(*Capture the Flag*) challenges and solvs, across the various
 - [Cyber_Crawler_2023_dont_forget_me](/CTFs/CyberCrawler_2023/Forensics/Dont%20Forget%20me/README.md)
 #### Reverse(1)
 - [Cyber_Crawler_2023_reverse_me1](/CTFs/CyberCrawler_2023/Reverse/Reverse%20me%201/README.md)
+#### Administration(1)
+- [CODEBY_Hell_Circle](/Websites/CODEBY/Administration/Hell%20Circle/README.md)
 
 
 
