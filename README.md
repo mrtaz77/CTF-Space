@@ -19,18 +19,19 @@ A collection of ctf(*Capture the Flag*) challenges and solvs, across the various
 |10 |[Cyber Crawler](/CTFs/CyberCrawler_2023/) | 2023 |n006_54uaD|  17  |
 
 ### Categories 
-#### Crypto
+#### Crypto(3)
+- [KnightCTF_2023_toddler_rsa](/CTFs/KnightCTF_2023/Crypto/Toddler%20RSA/README.md)
 - [Cyber_Crawler_2023_Decode_me](/CTFs/CyberCrawler_2023/Crypto/Decode%20me/README.md)
 - [Cyber_Crawler_2023_Decode_me2](/CTFs/CyberCrawler_2023/Crypto/Decode%20me2/README.md)
-#### Misc
+#### Misc(1)
 - [Cyber_Crawler_2023_Unzip_me](/CTFs/CyberCrawler_2023/Misc/Unzip%20me/README.md)
 #### OSINT
 #### Network
-#### Forensics
+#### Forensics(3)
 - [Cyber_Crawler_2023_release_me](/CTFs/CyberCrawler_2023/Forensics/release%20me/README.md)
 - [Cyber_Crawler_2023_dont_hide_me](/CTFs/CyberCrawler_2023/Forensics/Dont%20Hide%20me/README.md)
 - [Cyber_Crawler_2023_dont_forget_me](/CTFs/CyberCrawler_2023/Forensics/Dont%20Forget%20me/README.md)
-#### Reverse
+#### Reverse(1)
 - [Cyber_Crawler_2023_reverse_me1](/CTFs/CyberCrawler_2023/Reverse/Reverse%20me%201/README.md)
 
 
