@@ -15,13 +15,13 @@ A collection of ctf(*Capture the Flag*) challenges and solvs, across the various
 ### CTFs
 | # |     CTF   | Year |   Team   |  Rank |
 |---|-----------|------|----------|-------|
-|2 |[KnightCTF](/CTFs/KnightCTF_2023/) | 2023 |n006_54uaD|  59  |
-|7 |[TJCTF](/CTFs/TJCTF_2023/) | 2023 |n006_54uaD|  44  |
-|10 |[Cyber Crawler](/CTFs/CyberCrawler_2023/) | 2023 |n006_54uaD|  17  |
-|11 |[Cyber Coliseum](/CTFs/CyberColiseum_2023/) | 2023 |n006_54uaD| 195 |
+|1 |[KnightCTF](/CTFs/KnightCTF_2023/) | 2023 |n006_54uaD|  59  |
+|2 |[TJCTF](/CTFs/TJCTF_2023/) | 2023 |n006_54uaD|  44  |
+|3 |[Cyber Crawler](/CTFs/CyberCrawler_2023/) | 2023 |n006_54uaD|  17  |
+|4 |[Cyber Coliseum](/CTFs/CyberColiseum_2023/) | 2023 |n006_54uaD| 193 |
 
 ### Categories 
-#### Crypto(3)
+#### Crypto(4)
 - KnightCTF 2023
     1. [Toddler rsa](/CTFs/KnightCTF_2023/Crypto/Toddler%20RSA/README.md)
 - Cyber Crawler 2023
@@ -29,11 +29,12 @@ A collection of ctf(*Capture the Flag*) challenges and solvs, across the various
     2. [Decode me2](/CTFs/CyberCrawler_2023/Crypto/Decode%20me2/README.md)
 - Cyber Coliseum 2023
     1. [How should passwords be made?](/CTFs/CyberColiseum_2023/Crypto/How%20should%20passwords%20be%20made/README.md)
-#### Misc(1)
+#### Misc(3)
 - Cyber Crawler 2023
     1. [Unzip me](/CTFs/CyberCrawler_2023/Misc/Unzip%20me/README.md)
 - Cyber Coliseum 2023
     1. [Carousel](/CTFs/CyberColiseum_2023/Misc/Carousel/README.md)
+    2. [Great Mathematician](/CTFs/CyberColiseum_2023/Misc/Great%20Mathematician/README.md)
 #### OSINT
 #### Network
 #### Forensics(3)
