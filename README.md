@@ -21,7 +21,7 @@ A collection of ctf(*Capture the Flag*) challenges and solvs, across the various
 |4 |[Cyber Coliseum](/CTFs/CyberColiseum_2023/) | 2023 |n006_54uaD| 193 |
 
 ### Categories 
-#### Crypto(4)
+#### Crypto
 - KnightCTF 2023
     1. [Toddler rsa](/CTFs/KnightCTF_2023/Crypto/Toddler%20RSA/README.md)
 - Cyber Crawler 2023
@@ -29,7 +29,7 @@ A collection of ctf(*Capture the Flag*) challenges and solvs, across the various
     2. [Decode me2](/CTFs/CyberCrawler_2023/Crypto/Decode%20me2/README.md)
 - Cyber Coliseum 2023
     1. [How should passwords be made?](/CTFs/CyberColiseum_2023/Crypto/How%20should%20passwords%20be%20made/README.md)
-#### Misc(3)
+#### Misc
 - Cyber Crawler 2023
     1. [Unzip me](/CTFs/CyberCrawler_2023/Misc/Unzip%20me/README.md)
 - Cyber Coliseum 2023
@@ -37,15 +37,15 @@ A collection of ctf(*Capture the Flag*) challenges and solvs, across the various
     2. [Great Mathematician](/CTFs/CyberColiseum_2023/Misc/Great%20Mathematician/README.md)
 #### OSINT
 #### Network
-#### Forensics(3)
+#### Forensics
 - Cyber Crawler 2023
     1. [Release me](/CTFs/CyberCrawler_2023/Forensics/release%20me/README.md)
     2. [Don't hide me](/CTFs/CyberCrawler_2023/Forensics/Dont%20Hide%20me/README.md)
     3. [Don't forget me](/CTFs/CyberCrawler_2023/Forensics/Dont%20Forget%20me/README.md)
-#### Reverse(1)
+#### Reverse
 - Cyber Crawler 2023
     1. [Reverse me1](/CTFs/CyberCrawler_2023/Reverse/Reverse%20me%201/README.md)
-#### Administration(1)
+#### Administration
 - CODEBY
     1. [Hell_Circle](/Websites/CODEBY/Administration/Hell%20Circle/README.md)
 
