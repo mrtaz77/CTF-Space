@@ -19,8 +19,9 @@ A collection of ctf(*Capture the Flag*) challenges and solvs, across the various
 |2 |[TJCTF](/CTFs/TJCTF_2023/) | 2023 |n006_54uaD|  44  |
 |3 |[Cyber Crawler](/CTFs/CyberCrawler_2023/) | 2023 |n006_54uaD|  17  |
 |4 |[Cyber Coliseum](/CTFs/CyberColiseum_2023/) | 2023 |n006_54uaD| 193 |
+|5 |[Flag Hunt](/CTFs/FlagHunt_2023/)| 2023 | N/A | N/A |
 
-### Categories 
+### Categories
 #### Crypto
 - KnightCTF 2023
     1. [Toddler rsa](/CTFs/KnightCTF_2023/Crypto/Toddler%20RSA/README.md)
@@ -29,6 +30,8 @@ A collection of ctf(*Capture the Flag*) challenges and solvs, across the various
     2. [Decode me2](/CTFs/CyberCrawler_2023/Crypto/Decode%20me2/README.md)
 - Cyber Coliseum 2023
     1. [How should passwords be made?](/CTFs/CyberColiseum_2023/Crypto/How%20should%20passwords%20be%20made/README.md)
+- Flag Hunt 2023
+    1. [RSA 2.0](/CTFs/FlagHunt_2023/Crypto/RSA%202.0/README.md)
 #### Misc
 - Cyber Crawler 2023
     1. [Unzip me](/CTFs/CyberCrawler_2023/Misc/Unzip%20me/README.md)
@@ -48,9 +51,3 @@ A collection of ctf(*Capture the Flag*) challenges and solvs, across the various
 #### Administration
 - CODEBY
     1. [Hell_Circle](/Websites/CODEBY/Administration/Hell%20Circle/README.md)
-
-
-
-
-
-
