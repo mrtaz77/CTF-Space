@@ -17,7 +17,7 @@ Here the seed is *pseudo random*,i.e, the random function is using time as seed.
 
 Then I saw the whatsapp ss.
 
-![img](/CTFs/CyberColiseum_2023/Crypto/How%20should%20passwords%20be%20made/whatsapp_chat.png)
+![img](/CTFs/CyberColiseumII_2023/Crypto/How%20should%20passwords%20be%20made/whatsapp_chat.png)
 
 This implies that :
 Location : Lead,Moscow
@@ -25,7 +25,7 @@ Time of encryption : Between `5:09 pm` and `5:10 pm`.
 
 Since the location is Moscow,which is `UTC+6:00`, I changed my local time zone accordingly...
 
-![img](/CTFs/CyberColiseum_2023/Crypto/How%20should%20passwords%20be%20made/change%20time%20zone.png)
+![img](/CTFs/CyberColiseumII_2023/Crypto/How%20should%20passwords%20be%20made/change%20time%20zone.png)
 
 Then I just generated timestamps(possible seeds) in the time frame betwen `5:08 pm` and `5:11 pm`,just to be on the safe side.Only __121__ possible seeds,so not many values to bruteforce.
 
