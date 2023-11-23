@@ -1,9 +1,9 @@
 # How should passwords be made?
 ## Category : Crypto
 ## Points : 200
-![img](/CTFs/CyberColiseum_2023/Crypto/How%20should%20passwords%20be%20made/description.png)
+![img](/CTFs/CyberColiseumII_2023/Crypto/How%20should%20passwords%20be%20made/description.png)
 
-Downloading the task I worked through the [gen_pass.py](/CTFs/CyberColiseum_2023/Crypto/How%20should%20passwords%20be%20made/gen_pass.py).
+Downloading the task I worked through the [gen_pass.py](/CTFs/CyberColiseumII_2023/Crypto/How%20should%20passwords%20be%20made/gen_pass.py).
 ```py
 KEY_LEN = 16
 BS = 16

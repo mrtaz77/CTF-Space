@@ -1,7 +1,7 @@
 # Carousel
 ## Category : Misc
 ## Points : 200
-The task contained a [task_file](/CTFs/CyberColiseum_2023/Misc/Carousel/task_file.txt) . 
+The task contained a [task_file](/CTFs/CyberColiseumII_2023/Misc/Carousel/task_file.txt) . 
 
 The file contained binary,hex and base64 encoded strings seperated by '|' seperator.
 

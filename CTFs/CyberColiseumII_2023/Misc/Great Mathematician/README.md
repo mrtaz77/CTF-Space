@@ -4,9 +4,9 @@
 
 A tcp socket was given(62.173.140.174:39001).Connected to the tcp socket and started the game.
 
-The game asked 50 linear one-variable mathematically questions.However each question must be solved in 5 seconds. Else __TIMED OUT !!!__
+The game asked the answer to 50 linear equations of one variable.However each question must be solved in 5 seconds. Else __TIMED OUT !!!__
 
-So, used python's `sympy` module and solved the equations using `Eq, solve, sympify`.
+So,I used python's `sympy` module and solved the equations using `Eq, solve, sympify`.
 
 ```py
 def solve_equation(equation_str):
